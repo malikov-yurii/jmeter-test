@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703367771163,661,POST Yuriiss Pet,200,OK,Thread Group 1-1,text,true,,479,417,8,8,https://petstore.swagger.io/v2/pet,661,0,536
+1703367771214,608,POST Yuriiss Pet,200,OK,Thread Group 1-2,text,true,,479,417,8,8,https://petstore.swagger.io/v2/pet,608,0,481
+1703367771314,508,POST Yuriiss Pet,200,OK,Thread Group 1-3,text,true,,483,421,8,8,https://petstore.swagger.io/v2/pet,508,0,381
+1703367771408,502,POST Yuriiss Pet,200,OK,Thread Group 1-4,text,true,,480,418,9,9,https://petstore.swagger.io/v2/pet,502,0,374
+1703367771513,505,POST Yuriiss Pet,200,OK,Thread Group 1-5,text,true,,480,418,10,10,https://petstore.swagger.io/v2/pet,505,0,377
+1703367771613,492,POST Yuriiss Pet,200,OK,Thread Group 1-6,text,true,,483,421,10,10,https://petstore.swagger.io/v2/pet,492,0,366
+1703367771712,505,POST Yuriiss Pet,200,OK,Thread Group 1-7,text,true,,479,417,10,10,https://petstore.swagger.io/v2/pet,505,0,378
+1703367771811,476,POST Yuriiss Pet,200,OK,Thread Group 1-8,text,true,,479,417,10,10,https://petstore.swagger.io/v2/pet,476,0,356
+1703367772210,121,PUT Yuriiss Pet,200,OK,Thread Group 1-3,text,true,,483,420,10,10,https://petstore.swagger.io/v2/pet,121,0,0
+1703367772210,124,PUT Yuriiss Pet,200,OK,Thread Group 1-6,text,true,,483,420,10,10,https://petstore.swagger.io/v2/pet,123,0,0
+1703367772210,124,PUT Yuriiss Pet,200,OK,Thread Group 1-2,text,true,,479,416,10,10,https://petstore.swagger.io/v2/pet,124,0,0
+1703367772210,125,PUT Yuriiss Pet,200,OK,Thread Group 1-4,text,true,,480,417,10,10,https://petstore.swagger.io/v2/pet,125,0,0
+1703367772210,127,PUT Yuriiss Pet,200,OK,Thread Group 1-1,text,true,,479,416,10,10,https://petstore.swagger.io/v2/pet,127,0,0
+1703367772210,129,PUT Yuriiss Pet,200,OK,Thread Group 1-5,text,true,,480,417,10,10,https://petstore.swagger.io/v2/pet,128,0,0
+1703367772218,127,PUT Yuriiss Pet,200,OK,Thread Group 1-7,text,true,,479,416,10,10,https://petstore.swagger.io/v2/pet,127,0,0
+1703367771907,487,POST Yuriiss Pet,200,OK,Thread Group 1-9,text,true,,483,421,10,10,https://petstore.swagger.io/v2/pet,484,0,362
+1703367772288,121,PUT Yuriiss Pet,200,OK,Thread Group 1-8,text,true,,479,416,10,10,https://petstore.swagger.io/v2/pet,121,0,0
+1703367772331,120,GET Pet by id,200,OK,Thread Group 1-3,text,true,,483,162,10,10,https://petstore.swagger.io/v2/pet/12,120,0,0
+1703367772334,122,GET Pet by id,200,OK,Thread Group 1-2,text,true,,479,162,10,10,https://petstore.swagger.io/v2/pet/11,122,0,0
+1703367772334,124,GET Pet by id,200,OK,Thread Group 1-6,text,true,,483,162,10,10,https://petstore.swagger.io/v2/pet/15,124,0,0
+1703367772335,124,GET Pet by id,200,OK,Thread Group 1-4,text,true,,480,162,10,10,https://petstore.swagger.io/v2/pet/13,124,0,0
+1703367772338,125,GET Pet by id,200,OK,Thread Group 1-1,text,true,,479,162,10,10,https://petstore.swagger.io/v2/pet/10,124,0,0
+1703367772339,127,GET Pet by id,200,OK,Thread Group 1-5,text,true,,480,162,10,10,https://petstore.swagger.io/v2/pet/14,126,0,0
+1703367772346,126,GET Pet by id,200,OK,Thread Group 1-7,text,true,,479,162,10,10,https://petstore.swagger.io/v2/pet/20,126,0,0
+1703367772010,497,POST Yuriiss Pet,200,OK,Thread Group 1-10,text,true,,480,418,10,10,https://petstore.swagger.io/v2/pet,497,0,371
+1703367772395,127,PUT Yuriiss Pet,200,OK,Thread Group 1-9,text,true,,483,420,10,10,https://petstore.swagger.io/v2/pet,124,0,0
+1703367772410,119,GET Pet by id,200,OK,Thread Group 1-8,text,true,,479,162,10,10,https://petstore.swagger.io/v2/pet/21,119,0,0
+1703367772452,122,DELETE Pet by id,404,Not Found,Thread Group 1-3,,false,,292,183,10,10,https://petstore.swagger.io/v2/pet/2,122,0,0
+1703367772456,121,DELETE Pet by id,404,Not Found,Thread Group 1-2,,false,,292,183,10,10,https://petstore.swagger.io/v2/pet/1,121,0,0
+1703367772458,123,DELETE Pet by id,404,Not Found,Thread Group 1-6,,false,,292,183,8,8,https://petstore.swagger.io/v2/pet/5,123,0,0
+1703367772459,124,DELETE Pet by id,404,Not Found,Thread Group 1-4,,false,,292,183,7,7,https://petstore.swagger.io/v2/pet/3,124,0,0
+1703367772463,125,DELETE Pet by id,404,Not Found,Thread Group 1-1,,false,,292,183,6,6,https://petstore.swagger.io/v2/pet/0,125,0,0
+1703367772466,127,DELETE Pet by id,404,Not Found,Thread Group 1-5,,false,,292,183,5,5,https://petstore.swagger.io/v2/pet/4,127,0,0
+1703367772473,126,DELETE Pet by id,404,Not Found,Thread Group 1-7,,false,,292,184,4,4,https://petstore.swagger.io/v2/pet/30,126,0,0
+1703367772509,128,PUT Yuriiss Pet,200,OK,Thread Group 1-10,text,true,,480,417,3,3,https://petstore.swagger.io/v2/pet,128,0,0
+1703367772523,121,GET Pet by id,200,OK,Thread Group 1-9,text,true,,483,162,3,3,https://petstore.swagger.io/v2/pet/22,121,0,0
+1703367772529,120,DELETE Pet by id,404,Not Found,Thread Group 1-8,,false,,292,184,3,3,https://petstore.swagger.io/v2/pet/31,120,0,0
+1703367772645,122,DELETE Pet by id,404,Not Found,Thread Group 1-9,,false,,292,184,2,2,https://petstore.swagger.io/v2/pet/32,122,0,0
+1703367772641,127,GET Pet by id,200,OK,Thread Group 1-10,text,true,,480,162,2,2,https://petstore.swagger.io/v2/pet/23,127,0,0
+1703367772769,126,DELETE Pet by id,404,Not Found,Thread Group 1-10,,false,,292,184,1,1,https://petstore.swagger.io/v2/pet/33,126,0,0
